@@ -7,7 +7,8 @@ gosto de programar e me empolgo com um bom desafio.
 
 - 🔭 Atualmente trabalhando em:
 https://github.com/Heitor-M33n/Sistema-de-clientes
-https://github.com/Heitor-M33n/Pcbuilds ( meu front-end é uma negação )
+https://github.com/Heitor-M33n/Pcbuilds  
+( meu front-end é uma negação )
 
 - ⚡ Fun fact: Conheci o mundo da programação tentando fazer jogos no Roblox usando Luau, em meados de 2020, 2021
 > ( Infelimente não evolui muito, pois programava numa batata naquele tempo 😓 )
