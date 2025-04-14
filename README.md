@@ -5,8 +5,7 @@ gosto de programar e me empolgo com um bom desafio.
 
 - 🌱 Atualmente aprendendo: Python
 
-- 🔭 Atualmente trabalhando em:
-...
+- 🔭 Atualmente trabalhando em: https://github.com/Heitor-M33n/Sistema-notas
 
 - ⚡ Fun fact: Conheci o mundo da programação tentando fazer jogos no Roblox usando Luau, em meados de 2020, 2021
 > ( Infelimente não evolui muito, pois programava numa batata naquele tempo 😓 )
